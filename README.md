@@ -9,7 +9,9 @@
   I am passionate about computer science, and I enjoy learning new things!
   <br />Currently making projects with <a href="https://github.com/Luck24">@Luck24</a>, <a href="https://github.com/Nw05">@Niklas</a> (<a href="https://codeclickers.com">Code Clickers</a>) and by myself. You can find some of my projects here on GitHub!
   <br />
-  <br />Coding all day with <a href="https://github.com/code-and-relax">@Yassine</a> in school, because most classes are boring as hell.
+  <br /><b>Notorious for hacking Mallorca's public transport service 🚍👨🏽‍💻 and exposing <a href="https://github.com/YarosMallorca/tib_api" target="_blank">their API</a>.</b>
+  <br />
+  <br />Currently studying computer science in <a href="https://iesportocristo.exposed">IES Porto Cristo</a> but I'm moving to the Netherlands 🇳🇱 next year!
   <br />
   <br />
   Flutter, Firebase, and Dart are my favorite Tech Stack 💛💙
