@@ -6,8 +6,10 @@
   <br />Currently making projects with <a href="https://github.com/Luck24">@Luck24</a>, <a href="https://github.com/Nw05">@Niklas</a> (<a href="https://codeclickers.com">Code Clickers</a>), and with <a href="https://github.com/code-and-relax">@Yassine</a> at school. 
   <br />
   <h4>We just released <a href="https://guessit.codeclickers.com" target="_blank">Guess It!</a> Why don't you check it out?</h4>
+
+  <h4>I open-sourced the APIs for public transport in Mallorca for developers! Check it out <a href="https://github.com/open-transport-mallorca">here!</a></h4>
   
-  <br />Currently studying computer science in <a href="https://iesportocristo.exposed">IES Porto Cristo</a>.
+  <br />Currently studying computer science in IES Porto Cristo, and I <a href="https://iesportocristo.exposed">exposed it</a> 😜 Switching to Politècnic de Llevant for 24-25!
   <br />
   <br />
   Flutter, Firebase, and Dart are my favorite Tech Stack 💛💙 There is nothing better than spending a night developing with these technologies
@@ -21,7 +23,7 @@
 
 <h4> IDEs of choice</h4>
 
-[![IDEs](https://skillicons.dev/icons?i=vscode,sublime,pycharm,webstorm,androidstudio)](https://skillicons.dev)
+[![IDEs](https://skillicons.dev/icons?i=vscode,pycharm,webstorm,androidstudio,sublime)](https://skillicons.dev)
 
 
 <h4> OS'es I used</h4>
