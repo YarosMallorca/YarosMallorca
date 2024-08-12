@@ -13,6 +13,8 @@
   <br />
   <br />
   Flutter, Firebase, and Dart are my favorite Tech Stack 💛💙 There is nothing better than spending a night developing with these technologies
+
+  <b>Why does Next, React, and JavaScript SUCK so much? Really, Flutter FTW 😆</b>
   
 <hr>
 
