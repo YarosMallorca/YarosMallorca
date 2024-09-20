@@ -23,19 +23,19 @@
   
 <hr>
 
-<h4>Languages & Frameworks I've used</h4>
+<h4>Languages & Frameworks I've used (from most to least familiar)</h4>
 
-[![Languages](https://skillicons.dev/icons?i=python,dart,flutter,firebase,gcp,materialui,js,ts,kubernetes,docker,tailwind,html,css,cpp,cs,arduino,swift,kotlin,nodejs,lua,unity)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=dart,flutter,firebase,python,gcp,html,css,js,ts,tailwind,nodejs,nextjs,react,nginx,vercel,java,arduino,docker,cs,swift,kotlin,lua,kubernetes,cpp)](https://skillicons.dev)
 
 
-<h4> IDEs of choice</h4>
+<h4> IDEs I've used (from most to least favourite)</h4>
 
-[![IDEs](https://skillicons.dev/icons?i=vscode,pycharm,webstorm,androidstudio,sublime)](https://skillicons.dev)
+[![IDEs](https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,webstorm,idea,sublime,atom,eclipse)](https://skillicons.dev)
 
 
 <h4> OS'es I used</h4>
 
-[![OSes](https://skillicons.dev/icons?i=windows,apple,arch,kali,mint)](https://skillicons.dev)
+[![OSes](https://skillicons.dev/icons?i=windows,apple,arch,kali,mint,ubuntu)](https://skillicons.dev)
 
 <h4>Favourite Tools</h4>
 
