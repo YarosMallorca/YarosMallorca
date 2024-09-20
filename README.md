@@ -1,26 +1,31 @@
 <h2>Hey there, I’m Yaros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h2>
 
 
-  I was born in Ukraine in 2006, and I've been living in Spain since 2012. In 2017, I decided to pursue my passion and started my journey to become a developer.
-  I am passionate about computer science, and I enjoy learning new things!
-  <br />Currently making projects with <a href="https://github.com/Luck24">@Luck24</a>, <a href="https://github.com/Nw05">@Niklas</a> (<a href="https://codeclickers.com">Code Clickers</a>), and with <a href="https://github.com/code-and-relax">@Yassine</a> at school. 
+  I was born in Ukraine in 2006 🇺🇦, and I've been living in Spain since 2012 🇪🇸.
+  
+  In 2017, I started pursuing my passion and journey to become a software developer.
+  I am passionate about computer science, and I enjoy learning new things and technologies!
+  <br />Currently building awesome projects at <a href="https://codeclickers.com">Code Clickers</a>, and with <a href="https://github.com/code-and-relax">Yassine</a> at school (or at least try to, when teachers allow 😂🥲).
   <br />
   <h4>We just released <a href="https://guessit.codeclickers.com" target="_blank">Guess It!</a> Why don't you check it out?</h4>
 
-  <h4>I open-sourced the APIs for public transport in Mallorca for developers! Check it out <a href="https://github.com/open-transport-mallorca">here!</a></h4>
+  <h4>I open-sourced the APIs for public transport in Mallorca for developers! Check it out <a href="https://github.com/open-transport-mallorca/mallorca_transit_services">here</a>!</h4>
+
+  I am currently studying computer science in Politècnic de Llevant.
   
-  <br />Currently studying computer science in IES Porto Cristo, and I <a href="https://iesportocristo.exposed">exposed it</a> 😜 Switching to Politècnic de Llevant for 24-25!
-  <br />
-  <br />
+  My dream is to move to the Netherlands in the next years 🇳🇱
+
+  <hr>
+  
   Flutter, Firebase, and Dart are my favorite Tech Stack 💛💙 There is nothing better than spending a night developing with these technologies
 
-  <b>Why does Next, React, and JavaScript SUCK so much? Really, Flutter FTW 😆</b>
+  <b>Really, Flutter FTW 😆</b>
   
 <hr>
 
 <h4>Languages & Frameworks I've used</h4>
 
-[![Languages](https://skillicons.dev/icons?i=python,dart,flutter,firebase,gcp,materialui,js,ts,kubernetes,docker,tailwind,html,css,cpp,cs,arduino,swift,kotlin,nodejs,lua,unity,unreal)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,dart,flutter,firebase,gcp,materialui,js,ts,kubernetes,docker,tailwind,html,css,cpp,cs,arduino,swift,kotlin,nodejs,lua,unity)](https://skillicons.dev)
 
 
 <h4> IDEs of choice</h4>
