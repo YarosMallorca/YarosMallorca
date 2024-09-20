@@ -25,7 +25,7 @@
 
 <h4>Languages & Frameworks I've used (from most to least familiar)</h4>
 
-[![Languages](https://skillicons.dev/icons?i=dart,flutter,firebase,python,gcp,html,css,js,ts,tailwind,nodejs,nextjs,react,nginx,vercel,java,arduino,docker,cs,swift,kotlin,lua,kubernetes,cpp)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=dart,flutter,firebase,python,gcp,html,css,js,ts,tailwind,nodejs,nextjs,react,nginx,docker,vercel,java,arduino,cs,swift,kotlin,lua,cpp)](https://skillicons.dev)
 
 
 <h4> IDEs I've used (from most to least favourite)</h4>
