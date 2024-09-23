@@ -4,22 +4,25 @@
   I was born in Ukraine in 2006 🇺🇦, and I've been living in Spain since 2012 🇪🇸.
   
   In 2017, I started pursuing my passion and journey to become a software developer.
-  I am passionate about computer science, and I enjoy learning new things and technologies!
-  <br />Currently building awesome projects at <a href="https://codeclickers.com">Code Clickers</a>, and with <a href="https://github.com/code-and-relax">Yassine</a> at school (or at least try to, when teachers allow 😂🥲).
-  <br />
-  <h4>We just released <a href="https://guessit.codeclickers.com" target="_blank">Guess It!</a> Why don't you check it out?</h4>
+  I am passionate about computer science and enjoy learning new things and technologies!
+  
+  A strong believer in an Open Source Software future ❤️
+ 
+   <b>Currently building awesome projects at <a href="https://codeclickers.com">Code Clickers</a>.</b>
+  We just released <a href="https://guessit.codeclickers.com" target="_blank">Guess It!</a> Why don't you check it out?
 
   <h4>I open-sourced the APIs for public transport in Mallorca for developers! Check it out <a href="https://github.com/open-transport-mallorca/mallorca_transit_services">here</a>!</h4>
-
-  I am currently studying computer science in Politècnic de Llevant.
-  
-  My dream is to move to the Netherlands in the next years 🇳🇱
+  I'm also one of the developers of <a href="https://github.com/open-transport-mallorca/ViaMallorca">ViaMallorca</a> - an attempt to make Mallorca's public transportation system better with a mobile app.
 
   <hr>
-  
-  Flutter, Firebase, and Dart are my favorite Tech Stack 💛💙 There is nothing better than spending a night developing with these technologies
-
-  <b>Really, Flutter FTW 😆</b>
+  <h2>Education</h2>
+  Former <b>Rafa Nadal International School</b> Student (<i>secondary education</i>)
+  <br>
+  I am currently studying computer science in <b>IES Porto Cristo</b> (<i>vocational education</i>)
+  <br>
+  My dream is to move to the <b>Netherlands</b> in the next years 🇳🇱
+  <br>
+  Currently attending <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">CS50</a> virtually! 
   
 <hr>
 
