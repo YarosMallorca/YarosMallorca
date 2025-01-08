@@ -7,12 +7,9 @@
   I am passionate about computer science and enjoy learning new things and technologies!
   
   A strong believer in an Open Source Software future ❤️
- 
-   <b>Currently building awesome projects at <a href="https://codeclickers.com">Code Clickers</a>.</b>
-  We just released <a href="https://guessit.codeclickers.com" target="_blank">Guess It!</a> Why don't you check it out?
 
   <h4>I open-sourced the APIs for public transport in Mallorca for developers! Check it out <a href="https://github.com/open-transport-mallorca/mallorca_transit_services">here</a>!</h4>
-  I'm also one of the developers of <a href="https://github.com/open-transport-mallorca/ViaMallorca">ViaMallorca</a> - an attempt to make Mallorca's public transportation system better with a mobile app.
+  I'm also the developer & maintainer of <a href="https://github.com/open-transport-mallorca/ViaMallorca">ViaMallorca</a> - an attempt to make Mallorca's public transportation system better with a mobile app.
 
   <hr>
   <h2>Education</h2>
@@ -45,10 +42,6 @@
 [![Tools](https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,ableton,git,postman,blender,figma)](https://skillicons.dev)
 
 <hr>
-
-<h3>WakaTime</h3>
-
-<a href="https://wakatime.com"><img height="350px" src="https://wakatime.com/share/@YarosMallorca/f4633248-e7d9-4567-96ce-7f7ae312a242.png" /></a>
 
 <h3>GitHub Stats</h3>
 
