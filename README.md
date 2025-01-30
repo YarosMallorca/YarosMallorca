@@ -1,25 +1,26 @@
 <h2>Hey there, I’m Yaros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h2>
 
 
-  I was born in Ukraine in 2006 🇺🇦, and I've been living in Spain since 2012 🇪🇸.
+I was born in Ukraine in 2006 🇺🇦, and I've been living in Spain since 2012 🇪🇸.
   
-  In 2017, I started pursuing my passion and journey to become a software developer.
-  I am passionate about computer science and enjoy learning new things and technologies!
+In 2017, I started pursuing my passion and journey to become a software developer.
+I am passionate about computer science and enjoy learning new things and technologies!
   
-  A strong believer in an Open Source Software future ❤️
+A strong believer in an Open Source Software future ❤️
 
-  <h4>I open-sourced the APIs for public transport in Mallorca for developers! Check it out <a href="https://github.com/open-transport-mallorca/mallorca_transit_services">here</a>!</h4>
-  I'm also the developer & maintainer of <a href="https://github.com/open-transport-mallorca/ViaMallorca">ViaMallorca</a> - an attempt to make Mallorca's public transportation system better with a mobile app.
+I open-sourced the APIs for public transport in Mallorca for developers! Check it out <a href="https://github.com/open-transport-mallorca/mallorca_transit_services">here</a>!
 
-  <hr>
-  <h2>Education</h2>
-  Former <b>Rafa Nadal International School</b> Student (<i>secondary education</i>)
-  <br>
-  I am currently studying computer science in <b>IES Porto Cristo</b> (<i>vocational education</i>)
-  <br>
-  My dream is to move to the <b>Netherlands</b> in the next years 🇳🇱
-  <br>
-  Currently attending <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">CS50</a> virtually! 
+I'm also the developer & maintainer of <a href="https://github.com/open-transport-mallorca/ViaMallorca">ViaMallorca</a> - an attempt to make Mallorca's public transportation system better with a mobile app.
+
+<hr>
+<h2>Education</h2>
+Former <b>Rafa Nadal International School</b> Student (<i>secondary education</i>)
+<br>
+I am currently studying computer science in <b>IES Porto Cristo</b> (<i>vocational education</i>)
+<br>
+Looking for software developent internships in the <b>Netherlands</b> for spring! 🇳🇱
+<br>
+Currently attending <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">CS50</a> virtually! 
   
 <hr>
 
