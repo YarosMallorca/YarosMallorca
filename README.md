@@ -18,15 +18,13 @@ Former <b>Rafa Nadal International School</b> Student (<i>secondary education</i
 <br>
 I am currently studying computer science in <b>IES Porto Cristo</b> (<i>vocational education</i>)
 <br>
-Looking for software development internships/jobs in the <b>Netherlands</b> for this summer! 🇳🇱
-<br>
 Currently attending <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">CS50</a> virtually! 
   
 <hr>
 
 <h4>Languages & Frameworks I've used (from most to least familiar)</h4>
 
-[![Languages](https://skillicons.dev/icons?i=dart,flutter,firebase,python,java,gcp,html,css,js,ts,tailwind,docker,nodejs,nextjs,react,nginx,vercel,arduino,cs,swift,kotlin,lua,cpp)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=dart,flutter,firebase,js,html,css,tailwind,astro,python,java,gcp,ts,docker,nodejs,nextjs,react,nginx,vercel,arduino,cs,swift,kotlin,lua,cpp)](https://skillicons.dev)
 
 
 <h4> IDEs I've used (from most to least favourite)</h4>
