@@ -18,8 +18,9 @@ Former <b>Rafa Nadal International School</b> Student (<i>secondary education</i
 <br>
 I am currently studying computer science in <b>IES Porto Cristo</b> (<i>vocational education</i>)
 <br>
-Currently attending <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">CS50</a> virtually! 
-  
+Intern at <b>ProturHotels</b> (Grup Bauzá)
+<br>
+Currently attending <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">CS50</a> virtually!
 <hr>
 
 <h4>Languages & Frameworks I've used (from most to least familiar)</h4>
