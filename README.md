@@ -2,7 +2,7 @@
 
 
 I was born in Ukraine in 2006 🇺🇦, and I've been living in Spain since 2012 🇪🇸.
-  
+
 In 2017, I started pursuing my passion and journey to become a software developer.
 I am passionate about computer science and enjoy learning new things and technologies!
   
@@ -25,7 +25,7 @@ Currently attending <a href="https://pll.harvard.edu/course/cs50-introduction-co
 
 <h4>Languages & Frameworks I've used (from most to least familiar)</h4>
 
-[![Languages](https://skillicons.dev/icons?i=dart,flutter,firebase,js,html,css,tailwind,astro,python,java,gcp,ts,docker,nodejs,nextjs,react,nginx,vercel,arduino,cs,swift,kotlin,lua,cpp)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=dart,flutter,html,css,tailwind,js,ts,react,astro,docker,python,java,firebase,gcp,nodejs,nextjs,vercel,arduino,cs,swift,kotlin,lua,cpp)](https://skillicons.dev)
 
 
 <h4> IDEs I've used (from most to least favourite)</h4>
