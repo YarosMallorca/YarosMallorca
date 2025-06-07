@@ -5,12 +5,10 @@ I was born in Ukraine in 2006 🇺🇦, and I've been living in Spain since 2012
 
 In 2017, I started pursuing my passion and journey to become a software developer.
 I am passionate about computer science and enjoy learning new things and technologies!
-  
-A strong believer in an Open Source Software future ❤️
 
-I open-sourced the APIs for public transport in Mallorca for developers! Check it out <a href="https://github.com/open-transport-mallorca/mallorca_transit_services">here</a>!
+Coding is awesome, but I also enjoy self-hosting, system administration, networking, and cybersecurity ❤️
 
-I'm also the developer & maintainer of <a href="https://github.com/open-transport-mallorca/ViaMallorca">ViaMallorca</a> - an attempt to make Mallorca's public transportation system better with a mobile app.
+**Developer & maintainer of [Via Mallorca](https://github.com/open-transport-mallorca/ViaMallorca)** - an attempt to make Mallorca's public transportation system better with a mobile app.
 
 <hr>
 <h2>Education</h2>
@@ -25,21 +23,21 @@ Currently attending <a href="https://pll.harvard.edu/course/cs50-introduction-co
 
 <h4>Languages & Frameworks I've used (from most to least familiar)</h4>
 
-[![Languages](https://skillicons.dev/icons?i=dart,flutter,html,css,tailwind,js,ts,react,astro,docker,python,java,firebase,gcp,nodejs,nextjs,vercel,arduino,cs,swift,kotlin,lua,cpp)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=dart,flutter,firebase,html,css,js,ts,tailwind,react,nextjs,astro,java,python,docker,cs,mysql,kotlin,unity,nodejs,vercel,arduino,swift,lua,c,cpp)](https://skillicons.dev)
 
 
 <h4> IDEs I've used (from most to least favourite)</h4>
 
-[![IDEs](https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,webstorm,idea,sublime,atom,eclipse)](https://skillicons.dev)
+[![IDEs](https://skillicons.dev/icons?i=vscode,webstorm,pycharm,idea,androidstudio,visualstudio,sublime,eclipse)](https://skillicons.dev)
 
 
 <h4> OS'es I used</h4>
 
-[![OSes](https://skillicons.dev/icons?i=windows,apple,arch,kali,mint,ubuntu)](https://skillicons.dev)
+[![OSes](https://skillicons.dev/icons?i=windows,apple,debian,arch,kali,mint,ubuntu)](https://skillicons.dev)
 
 <h4>Favourite Tools</h4>
 
-[![Tools](https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,ableton,git,postman,blender,figma)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,photoshop,postman,figma,aftereffects,au,ableton,blender,illustrator)](https://skillicons.dev)
 
 <hr>
 
