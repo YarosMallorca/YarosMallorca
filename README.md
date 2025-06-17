@@ -10,6 +10,8 @@ Coding is awesome, but I also **enjoy self-hosting, system administration, netwo
 
 **Developer & maintainer of [Via Mallorca](https://github.com/open-transport-mallorca/ViaMallorca)** - an attempt to make Mallorca's public transportation system better with a mobile app.
 
+**Occasional contributor to [Immich](https://github.com/immich-app/immich)** - a High performance self-hosted photo and video management solution
+
 ---
 ## Education
 Former **[Rafa Nadal International School](https://www.rafanadalschool.com)** Student (*secondary education*)
