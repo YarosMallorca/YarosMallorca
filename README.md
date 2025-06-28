@@ -8,19 +8,18 @@ I am passionate about computer science and enjoy learning new things and technol
 
 Coding is awesome, but I also **enjoy self-hosting, system administration, networking, and cybersecurity** ❤️
 
-**Developer & maintainer of [Via Mallorca](https://github.com/open-transport-mallorca/ViaMallorca)** - an attempt to make Mallorca's public transportation system better with a mobile app.
-
-**Occasional contributor to [Immich](https://github.com/immich-app/immich)** - a High performance self-hosted photo and video management solution
+- **Developer & maintainer of [Via Mallorca](https://github.com/open-transport-mallorca/ViaMallorca)** - an attempt to make Mallorca's public transportation system better with a mobile app.
+- **Occasional contributor to [Immich](https://github.com/immich-app/immich)** - a High performance self-hosted photo and video management solution
 
 ---
 ## Education
-Former **[Rafa Nadal International School](https://www.rafanadalschool.com)** Student (*secondary education*)
+- Former **[Rafa Nadal International School](https://www.rafanadalschool.com)** Student (*secondary education*)
+- Studied system administration & networking at **[IES Porto Cristo](https://iesportocristo.net)** (*vocational education*)
+- Currently attending [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) virtually!
 
-Studied system administration & networking at **[IES Porto Cristo](https://iesportocristo.net)** (*vocational education*)
-
-Intern at **[Protur Hotels](https://protur-hotels.com)** ([Grup Bauzá](https://grupbauza.es/))
-
-Currently attending [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) virtually!
+## Experience
+- Part-time Software Developer at **[Protur Hotels](https://protur-hotels.com)** ([Grup Bauzá](https://grupbauza.es/))
+- Part-time Audiovisual Technician at **[CM Hotels](https://www.cmhotels.com)**
 
 ---
 
