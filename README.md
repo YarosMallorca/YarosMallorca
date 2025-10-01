@@ -15,7 +15,8 @@ Coding is awesome, but I also **enjoy self-hosting, system administration, netwo
 ## Education
 - Former **[Rafa Nadal International School](https://www.rafanadalschool.com)** Student (*secondary education*)
 - Studied system administration & networking at **[IES Porto Cristo](https://iesportocristo.net)** (*vocational education*)
-- Currently attending [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) virtually!
+- Currently studying cross-platform development at **[Cesur](https://www.cesurformacion.com/)** (*vocational education*)
+- Attending [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) virtually!
 
 ## Experience
 - Part-time Software Developer at **[Protur Hotels](https://protur-hotels.com)** ([Grup Bauzá](https://grupbauza.es/))
