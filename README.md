@@ -49,7 +49,7 @@ Coding is awesome, but I also **enjoy self-hosting, system administration, netwo
 - I got into programming & computers from an electronics/AV background, inspired by my grandpa, who was an electronics engineer
 - My first programming experience was at 11 when I started writing simple `.bat` scripts, then expanded my knowledge with a Python book at 13
 - I'm a systemizer, and navigate software & hardware interfaces by muscle memory & patterns instead of labels & icons, to an extreme level
-- AI & *vibe coding* hater, turns any codebase into a nightmare over time. Spend a bit more time researching and learning, instead of using AI for everything, future you will thank you :)
+- AI & *vibe coding* hater, AI turns any codebase into a nightmare over time. Spend a bit more time researching and learning instead of using AI for everything, future you will thank you :)
 - I'm highly interested in FPV drones. In my free time, I build my own quads and help others with troubleshooting in Discord servers
 - Played piano since age 5, and played Launchpad for many years, posting YouTube videos
 
