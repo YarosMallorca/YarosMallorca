@@ -6,7 +6,7 @@ I was born in Ukraine in 2006 🇺🇦, and I've been living in Spain since 2012
 In 2017, I started pursuing my passion and journey to become a software developer.
 I am passionate about computer science and enjoy learning new things and technologies!
 
-Coding is awesome, but I also **enjoy self-hosting, system administration, networking, and cybersecurity** ❤️
+Coding is awesome, but I also **enjoy self-hosting, system administration, networking, cybersecurity, and electronics** ❤️
 
 - **Developer & maintainer of [Via Mallorca](https://github.com/open-transport-mallorca/ViaMallorca)** - an attempt to make Mallorca's public transportation system better with a mobile app.
 - **Occasional contributor to [Immich](https://github.com/immich-app/immich)** - a High performance self-hosted photo and video management solution
@@ -19,28 +19,39 @@ Coding is awesome, but I also **enjoy self-hosting, system administration, netwo
 - Attending [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) virtually!
 
 ## Experience
-- Part-time Software Developer at **[Protur Hotels](https://protur-hotels.com)** ([Grup Bauzá](https://grupbauza.es/))
+- Part-time Software Developer at **[Protur Hotels](https://protur-hotels.com)** ([Grup Bauzá](https://grupbauza.es))
 - Part-time Audiovisual Technician at **[CM Hotels](https://www.cmhotels.com)**
 
 ---
 
-<h4>Languages & Frameworks I've used (from most to least familiar)</h4>
+<h4>Languages & Frameworks</h4>
 
-[![Languages](https://skillicons.dev/icons?i=dart,flutter,firebase,html,css,js,ts,tailwind,react,nextjs,astro,java,python,docker,cs,mysql,kotlin,unity,nodejs,vercel,arduino,swift,lua,c,cpp)](https://skillicons.dev)
-
-
-#### IDEs I've used (from most to least favourite)
-
-[![IDEs](https://skillicons.dev/icons?i=vscode,webstorm,pycharm,idea,androidstudio,visualstudio,sublime,eclipse)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,python,docker,vite,html,css,js,ts,tailwind,react,svelte,nextjs,nodejs,vercel,astro,java,cs,postgres,mysql,kotlin,unity,arduino,swift,lua,c,cpp)](https://skillicons.dev)
 
 
-#### OS'es I used
+#### IDEs
+
+[![IDEs](https://skillicons.dev/icons?i=vscode,webstorm,pycharm,idea,androidstudio,visualstudio,sublime)](https://skillicons.dev)
+
+
+#### OSes
 
 [![OSes](https://skillicons.dev/icons?i=windows,apple,debian,arch,kali,mint,ubuntu)](https://skillicons.dev)
 
 #### Favourite Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,photoshop,postman,figma,aftereffects,au,ableton,blender,illustrator)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,postman,blender,figma,photoshop,aftereffects,au,ableton,illustrator)](https://skillicons.dev)
+
+---
+
+### Interesting facts about me
+
+- I got into programming & computers from an electronics/AV background, inspired by my grandpa, who was an electronics engineer
+- My first programming experience was at 11 when I started writing simple `.bat` scripts, then expanded my knowledge with a Python book at 13
+- I'm a systemizer, and navigate software & hardware interfaces by muscle memory & patterns instead of labels & icons, to an extreme level
+- AI & *vibe coding* hater, turns any codebase into a nightmare over time. Spend a bit more time researching and learning, instead of using AI for everything, future you will thank you :)
+- I'm highly interested in FPV drones. In my free time, I build my own quads and help others with troubleshooting in Discord servers
+- Played piano since age 5, and played Launchpad for many years, posting YouTube videos
 
 ---
 
