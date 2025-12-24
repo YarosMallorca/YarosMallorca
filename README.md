@@ -44,14 +44,25 @@ Coding is awesome, but I also **enjoy self-hosting, system administration, netwo
 
 ---
 
-### Interesting facts about me
+### A bit about me
 
-- I got into programming & computers from an electronics/AV background, inspired by my grandpa, who was an electronics engineer
-- My first programming experience was at 11 when I started writing simple `.bat` scripts, then expanded my knowledge with a Python book at 13
-- I'm a systemizer, and navigate software & hardware interfaces by muscle memory & patterns instead of labels & icons, to an extreme level
-- AI & *vibe coding* hater, AI turns any codebase into a nightmare over time. Spend a bit more time researching and learning instead of using AI for everything, future you will thank you :)
-- I'm highly interested in FPV drones. In my free time, I build my own quads and help others with troubleshooting in Discord servers
-- Played piano since age 5, and played Launchpad for many years, posting YouTube videos
+- I got into programming & computers from an electronics & AV background, initially inspired by my grandpa, who was an electronics engineer; I learned AV knowledge as a kid, spending evenings in hotel backstages & at my parents' shows.
+- My first programming experience was at 11 when I started writing simple `.bat` scripts, then expanded my knowledge with a Python book at 13.
+- I'm a systemizer by trait - navigate software & hardware interfaces by muscle memory & patterns instead of labels & icons, often to a very extreme level.
+- Surprisingly, I dislike AI - especially for coding & system administration; it turns any codebase into an unmaintainable mess over time. I would rather spend a bit more time researching and learning instead of using AI for everything.
+- I'm highly into FPV, drones, and RC in general. In my free time, I build & fly my own quads, as well as help others with troubleshooting.
+- Some other hobbies I had before coding were piano, which I played since age 5, and Launchpad since age 11.
+- The last few years I've been very anxious - but I'm still trying to be productive, and do whatever I can to be better at what I do.
+
+---
+
+### Contact me on
+Feel free to message me on any of the platforms listed below :)
+
+- [LinkedIn](https://www.linkedin.com/in/yaroslav-syubayev-659152291/)
+- Instagram: [@yarosmallorca](https://www.instagram.com/yaros_mallorca/)
+- Discord: [@yarossyubayev](https://discord.com/channels/@me/519561606175129600)
+- Telegram: [@YarosFPV](http://t.me/yarosfpv)
 
 ---
 
