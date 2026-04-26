@@ -51,7 +51,7 @@ Coding is awesome, but I also **enjoy self-hosting, system administration, netwo
 - Surprisingly, I dislike AI (LLMs/agents specifically) - especially for coding & system administration; it turns any codebase into an unmaintainable mess over time. I would rather spend a bit more time researching and learning instead of using AI for everything.
 - I'm highly into FPV, drones, and RC in general. In my free time, I build & fly my own quads, as well as help others with troubleshooting. Additionally, I run an FPV Blog at [yarosfpv.com](https://yarosfpv.com/blog)
 - Some other hobbies I had before coding were piano, which I played since age 5, and Launchpad since age 11.
-- I'm get anxious from time to time - but I'm still trying to be productive, and get better at what I do.
+- I get anxious from time to time - but I'm still trying to be productive, and get better at what I do, and most importantly, learn from past experiences.
 
 ---
 
