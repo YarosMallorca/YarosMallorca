@@ -7,10 +7,15 @@ I am passionate about computer science and enjoy learning new things and technol
 
 Coding is awesome, but I also **enjoy self-hosting, system administration, networking, cybersecurity, and electronics** ❤️
 
-- **Developer & maintainer of [Via Mallorca](https://github.com/open-transport-mallorca/ViaMallorca)** - an attempt to make Mallorca's public transportation system better with a mobile app.
-- **Frequent contributor to [Immich](https://github.com/immich-app/immich)** - a High performance self-hosted photo and video management solution
+## Projects
 
----
+- **Developer & maintainer of:**
+  - **[Via Mallorca](https://github.com/open-transport-mallorca/ViaMallorca)** - an open source cross-platform mobile app for tracking public transport in Mallorca
+  - **[YMapper](https://github.com/YLabs-FPV/YMapper)** - a cross-platform tool to create automatic surveying & photogrammetry missions for drones using DJI Fly & Litchi
+- **Contributor to:**
+  - **[Immich](https://github.com/immich-app/immich)** - a high performance self-hosted photo and video management solution
+  - **[Betaflight Configurator](https://github.com/betaflight/betaflight-configurator)** - a cross platform configuration and management application for the Betaflight firmware
+
 ## Education
 - Former **[Rafa Nadal International School](https://www.rafanadalschool.com)** Student (*secondary education*)
 - Studied system administration & networking at **[IES Porto Cristo](https://iesportocristo.net)** (*vocational education*)
@@ -25,7 +30,7 @@ Coding is awesome, but I also **enjoy self-hosting, system administration, netwo
 
 <h4>Languages & Frameworks</h4>
 
-[![Languages](https://skillicons.dev/icons?i=dart,flutter,react,svelte,astro,ts,js,tailwind,vite,firebase,supabase,python,docker,html,css,nextjs,nodejs,vercel,java,cs,postgres,mysql,kotlin,unity,arduino,swift,lua,c,cpp)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=dart,flutter,react,svelte,astro,nextjs,ts,js,tailwind,vite,firebase,supabase,cs,python,postgres,mysql,docker,html,css,nodejs,vercel,java,kotlin,unity,arduino,swift,lua,c,cpp)](https://skillicons.dev)
 
 
 #### IDEs
