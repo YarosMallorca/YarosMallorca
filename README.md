@@ -23,8 +23,8 @@ Coding is awesome, but I also **enjoy self-hosting, system administration, netwo
 - Attending [**CS50**](https://pll.harvard.edu/course/cs50-introduction-computer-science) virtually!
 
 ## Experience
-- Full-time Software Developer at **[Protur Hotels](https://protur-hotels.com)** ([Grup Bauzá](https://grupbauza.es))
-- *Former* Audiovisual Technician at **[CM Hotels](https://www.cmhotels.com)**
+- Full-time Software Developer at **[Protur Hotels](https://protur-hotels.com)** ([Grup Bauzá](https://grupbauza.es)) (March 2025 - current)
+- *Former* Audiovisual Technician at **[CM Hotels](https://www.cmhotels.com)** (summer 2025)
 
 ---
 
@@ -50,10 +50,10 @@ Coding is awesome, but I also **enjoy self-hosting, system administration, netwo
 
 ### A bit about me
 
-- I got into programming & computers from an electronics & AV background, initially inspired by my grandpa, who was an electronics engineer; learned AV knowledge as a kid, spending evenings in hotel backstages & at my parents' shows.
+- I got into programming & computers from an electronics & AV background, initially inspired by my grandpa, who was an electronics engineer; learned AV knowledge as a kid, spending evenings in hotel backstages at my parents' shows.
 - My first programming experience was at 11 when I started writing simple `.bat` scripts, then expanded my knowledge with a Python book at 13.
 - I'm a systemizer by trait - navigate software & hardware interfaces by muscle memory & patterns instead of labels & icons, often to a very extreme level.
-- Surprisingly, I dislike AI (LLMs/agents specifically) - especially for coding & system administration; it turns any codebase into an unmaintainable mess over time. I would rather spend a bit more time researching and learning instead of using AI for everything.
+- Surprisingly, I dislike AI (LLMs specifically) - especially for coding & system administration; it turns any codebase into an unmaintainable mess over time. I would rather spend a bit more time researching and learning instead of using AI for everything.
 - I'm highly into FPV, drones, and RC in general. In my free time, I build & fly my own quads, as well as help others with troubleshooting. Additionally, I run an FPV Blog at [yarosfpv.com](https://yarosfpv.com/blog)
 - Some other hobbies I had before coding were piano, which I played since age 5, and Launchpad since age 11.
 - I get anxious from time to time - but I'm still trying to be productive, and get better at what I do, and most importantly, learn from past experiences.
@@ -65,7 +65,7 @@ Feel free to message me on any of the platforms listed below :)
 
 - [LinkedIn](https://www.linkedin.com/in/yaroslav-syubayev-659152291/)
 - Instagram: [@yarosmallorca](https://www.instagram.com/yaros_mallorca/)
-- Discord: [@yarossyubayev](https://discord.com/channels/@me/519561606175129600)
+- Discord: @yarossyubayev
 - Telegram: [@YarosFPV](http://t.me/yarosfpv)
 
 ---
