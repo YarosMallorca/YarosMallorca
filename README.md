@@ -10,8 +10,10 @@ Coding is awesome, but I also **enjoy self-hosting, system administration, netwo
 ## Projects
 
 - **Developer & maintainer of:**
-  - **[Via Mallorca](https://github.com/open-transport-mallorca/ViaMallorca)** - an open source cross-platform mobile app for tracking public transport in Mallorca
+  - **[YStreamer](https://github.com/YLabs-FPV/YStreamer)** - a Raspberry Pi 4 software that takes video from DJI products and streams them anywhere - free alternative to Cosmostreamer
   - **[YMapper](https://github.com/YLabs-FPV/YMapper)** - a cross-platform tool to create automatic surveying & photogrammetry missions for drones using DJI Fly & Litchi
+  - **[ShutterBridge](https://github.com/YLabs-FPV/ShutterBridge)** - ESP32 firmware that links a Betaflight flight controller to a DJI or GoPro action camera - free alternative to CamLink
+  - **[Via Mallorca](https://github.com/open-transport-mallorca/ViaMallorca)** - an open source cross-platform mobile app for tracking public transport in Mallorca
 - **Contributor to:**
   - **[Immich](https://github.com/immich-app/immich)** - a high performance self-hosted photo and video management solution
   - **[Betaflight Configurator](https://github.com/betaflight/betaflight-configurator)** - a cross platform configuration and management application for the Betaflight firmware
@@ -20,17 +22,18 @@ Coding is awesome, but I also **enjoy self-hosting, system administration, netwo
 - Former **[Rafa Nadal International School](https://www.rafanadalschool.com)** Student (*secondary education*)
 - Studied system administration & networking at **[IES Porto Cristo](https://iesportocristo.net)** (*vocational education*)
 - Currently studying cross-platform development at **[Cesur](https://www.cesurformacion.com/)** (*vocational education*)
-- Attending [**CS50**](https://pll.harvard.edu/course/cs50-introduction-computer-science) virtually!
+- Learning low-level programming at [**Low Level Academy**](https://lowlevel.academy)
+- Attending [**CS50**](https://pll.harvard.edu/course/cs50-introduction-computer-science) virtually
 
 ## Experience
 - Full-time Software Developer at **[Protur Hotels](https://protur-hotels.com)** ([Grup Bauzá](https://grupbauza.es)) (March 2025 - current)
-- *Former* Audiovisual Technician at **[CM Hotels](https://www.cmhotels.com)** (summer 2025)
+- AV Technician at **[CM Hotels](https://www.cmhotels.com)** (May - August 2025)
 
 ---
 
 <h4>Languages & Frameworks</h4>
 
-[![Languages](https://skillicons.dev/icons?i=dart,flutter,react,svelte,astro,nextjs,ts,js,tailwind,vite,firebase,supabase,cs,python,postgres,mysql,docker,html,css,nodejs,vercel,java,kotlin,unity,arduino,swift,lua,c,cpp)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=dart,flutter,react,svelte,astro,nextjs,ts,js,tailwind,vite,cs,supabase,firebase,java,kotlin,python,postgres,mysql,docker,html,css,nodejs,vercel,unity,arduino,swift,lua,c,cpp)](https://skillicons.dev)
 
 
 #### IDEs
@@ -69,11 +72,6 @@ Feel free to message me on any of the platforms listed below :)
 - Telegram: [@YarosFPV](http://t.me/yarosfpv)
 
 ---
-<!---
-### GitHub Stats
-<div style="display: flex; flex-wrap: wrap; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=YarosMallorca&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YarosMallorca&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=YarosMallorca&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
-</div>
---->
+
+<img src="https://github-readme-stats.vercel.app/api?username=YarosMallorca&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5">
+
